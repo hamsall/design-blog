@@ -6,7 +6,7 @@ module.exports = {
       summary: `who lives and works in Sydney building useful things.`,
     },
     description: `A design portfolio.`,
-    siteUrl: `https://halcha.github.io/blog`,
+    siteUrl: `https://hamsall.github.io/design-blog`,
     social: {
       twitter: `hamsall`,
     },
