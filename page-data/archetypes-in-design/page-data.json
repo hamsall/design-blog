@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/archetypes-in-design/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Sam's Blog"}},"markdownRemark":{"id":"cf0a7f21-a3df-5ee2-86aa-e7bc87a5cc64","excerpt":"This got published in UX collective! Huzzah!! You can check it out here","html":"<p>This got published in UX collective! Huzzah!!</p>\n<p><a href=\"https://uxdesign.cc/archetypes-in-design-d110dcb3fd7d\">You can check it out here</a></p>","frontmatter":{"title":"Archetypes in Design: Understanding Behaviour as a Network","date":"February 21, 2021","description":"Archetypes as a data framework for better, faster, and more meaningful design research. —  In this series of articles, we’ll explore archetypes as a data framework for better, faster and more meaningful design research."}},"previous":null,"next":{"fields":{"slug":"/thematic-analysis/"},"frontmatter":{"title":"Thematic analysis: data wrangling in design"}}},"pageContext":{"id":"cf0a7f21-a3df-5ee2-86aa-e7bc87a5cc64","previousPostId":null,"nextPostId":"4eb6166b-792b-5be2-8801-225cec6f3d6f"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
