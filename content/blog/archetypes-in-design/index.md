@@ -1,6 +1,6 @@
 ---
 title: "Archetypes in Design: Understanding Behaviour as a Network"
-date: "2021-02-21T22:12:03.284Z"
+date: "2022-02-21T22:12:03.284Z"
 description: "Archetypes as a data framework for better, faster, and more meaningful design research. —  In this series of articles, we’ll explore archetypes as a data framework for better, faster and more meaningful design research."
 ---
 
