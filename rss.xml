@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A design portfolio.]]></description><link>https://hamsall.github.io/design-blog</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 22 Mar 2022 22:37:47 GMT</lastBuildDate><item><title><![CDATA[Case Study: Toll Relief]]></title><description><![CDATA[Introduction This article is a study of a project to explore a customer’s experience of tolls and see what we can improve.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A design portfolio.]]></description><link>https://hamsall.github.io/design-blog</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 22 Mar 2022 22:40:16 GMT</lastBuildDate><item><title><![CDATA[Meme generator]]></title><description><![CDATA[A simple meme generator using APIs. I wanted to make something that made me chuckle. with 7500 posibilities, there must be a funny somewhere…]]></description><link>https://hamsall.github.io/design-blog/meme-generator/</link><guid isPermaLink="false">https://hamsall.github.io/design-blog/meme-generator/</guid><pubDate>Wed, 23 Mar 2022 10:12:03 GMT</pubDate><content:encoded>&lt;p&gt;A simple meme generator using APIs. I wanted to make something that made me chuckle. with 7500 posibilities, there must be a funny somewhere.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/design-blog/static/94f6693c87685c5b5cdc3919e146b9a0/d2a60/meme-generator002.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 47.46835443037975%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsTAAALEwEAmpwYAAACQ0lEQVQoz3XO20uTARjH8f0NdREEXXQRShFmJ0MpKghM0yLyIvGqiw40iBZRhCJvq6URM9LCRMzI0qJZU+caZrghhoe1yrnD66bNw9TpFN3BudM3fLXAoAd+8PA88OEn8/n8TPvmWYkmiMUTRKIxwpEoK7E48USC6OptJUo4HGZ5eZlQKEQkEpH2YDAoJRAISP/VkU2OuxGHehAHexF/mBkeNOOymhmxD+J2DOH4PsD4qBu/f45Z3wxzc7OMezx4xzyEwmGWlpakBIOhNVD3powyeQrVwkHqlBk8VRxBLc/mmeIcj6+dp7zoFH1fOpjwTDI94cU7NkFvp5Gu5hYJIJnkzySTSWQWSyWvXh9AKWShM+xA37oX4dZxrOazdLZcpUlVROPD64jDnxHFfmx2Cy+qKjDpWyUkHotJUHIdltmdAkbdNupvpvLybhp67R4a6tNxmbMwaQrpqcvHUJLON6OAy12HzVGDUXOJSaturVUi/heTQKe5BK8lheYHO9EK+9HXHKZHdxTHp1x6GzIpvbCd56orVNw+TXlxDoaafBY7jjFv16yDsY3gjO0OfvshDI9yaVFsp7vhDNbGfEY/FPJOncflk5vRKzPRlqZTq9iFq72Axa4c5p1N/wHNcha6N0ng/exU6i/uxt64j5GuNDqeZNAm38qwsAXtjRR8hhMETHm0qQv4aXovAYn4P+Cs2I7fUozdWEvf2yoGPlYyZStj4ZeA+6uafs09nG1KPB0qZvpUuDorEQ3VTDkH1hsmNoC/AVnBR4JgNQ1eAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;An image of a meme-generator in action. It’s a little bit funny.&quot;
+        title=&quot;An image of a meme-generator in action. It’s a little bit funny.&quot;
+        src=&quot;/design-blog/static/94f6693c87685c5b5cdc3919e146b9a0/f058b/meme-generator002.png&quot;
+        srcset=&quot;/design-blog/static/94f6693c87685c5b5cdc3919e146b9a0/c26ae/meme-generator002.png 158w,
+/design-blog/static/94f6693c87685c5b5cdc3919e146b9a0/6bdcf/meme-generator002.png 315w,
+/design-blog/static/94f6693c87685c5b5cdc3919e146b9a0/f058b/meme-generator002.png 630w,
+/design-blog/static/94f6693c87685c5b5cdc3919e146b9a0/d2a60/meme-generator002.png 807w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://hamsall.github.io/meme-generator/&quot;&gt;So here it is, a meme generator&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I’ve written &lt;a href=&quot;https://hamsall.medium.com/meme-generator-a-covid-project-38384170c9d&quot;&gt;more over on medium&lt;/a&gt; so check it out, leave a clap and some feedback. Keen to keep tinkering and making people chuckle&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Case Study: Toll Relief]]></title><description><![CDATA[Introduction This article is a study of a project to explore a customer’s experience of tolls and see what we can improve.
 But before we…]]></description><link>https://hamsall.github.io/design-blog/toll-relief-snsw/</link><guid isPermaLink="false">https://hamsall.github.io/design-blog/toll-relief-snsw/</guid><pubDate>Sun, 20 Mar 2022 17:30:03 GMT</pubDate><content:encoded>&lt;h1&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;This article is a study of a project to explore a customer’s experience of tolls and see what we can improve.
 But before we jump in, a quick word on government products.&lt;/p&gt;
@@ -562,39 +595,6 @@ When migration is complete, the conversations may turn towards what bigger dream
 &lt;p&gt;Hassan | Development&lt;/p&gt;
 &lt;p&gt;Libby | Design&lt;/p&gt;
 &lt;p&gt;Sam | Design&lt;/p&gt;
-&lt;p&gt;Vasu | Development&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Meme generator]]></title><description><![CDATA[A simple meme generator using APIs. I wanted to make something that made me chuckle. with 7500 posibilities, there must be a funny somewhere…]]></description><link>https://hamsall.github.io/design-blog/meme-generator/</link><guid isPermaLink="false">https://hamsall.github.io/design-blog/meme-generator/</guid><pubDate>Tue, 23 Mar 2021 10:12:03 GMT</pubDate><content:encoded>&lt;p&gt;A simple meme generator using APIs. I wanted to make something that made me chuckle. with 7500 posibilities, there must be a funny somewhere.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/design-blog/static/94f6693c87685c5b5cdc3919e146b9a0/d2a60/meme-generator002.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 47.46835443037975%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsTAAALEwEAmpwYAAACQ0lEQVQoz3XO20uTARjH8f0NdREEXXQRShFmJ0MpKghM0yLyIvGqiw40iBZRhCJvq6URM9LCRMzI0qJZU+caZrghhoe1yrnD66bNw9TpFN3BudM3fLXAoAd+8PA88OEn8/n8TPvmWYkmiMUTRKIxwpEoK7E48USC6OptJUo4HGZ5eZlQKEQkEpH2YDAoJRAISP/VkU2OuxGHehAHexF/mBkeNOOymhmxD+J2DOH4PsD4qBu/f45Z3wxzc7OMezx4xzyEwmGWlpakBIOhNVD3powyeQrVwkHqlBk8VRxBLc/mmeIcj6+dp7zoFH1fOpjwTDI94cU7NkFvp5Gu5hYJIJnkzySTSWQWSyWvXh9AKWShM+xA37oX4dZxrOazdLZcpUlVROPD64jDnxHFfmx2Cy+qKjDpWyUkHotJUHIdltmdAkbdNupvpvLybhp67R4a6tNxmbMwaQrpqcvHUJLON6OAy12HzVGDUXOJSaturVUi/heTQKe5BK8lheYHO9EK+9HXHKZHdxTHp1x6GzIpvbCd56orVNw+TXlxDoaafBY7jjFv16yDsY3gjO0OfvshDI9yaVFsp7vhDNbGfEY/FPJOncflk5vRKzPRlqZTq9iFq72Axa4c5p1N/wHNcha6N0ng/exU6i/uxt64j5GuNDqeZNAm38qwsAXtjRR8hhMETHm0qQv4aXovAYn4P+Cs2I7fUozdWEvf2yoGPlYyZStj4ZeA+6uafs09nG1KPB0qZvpUuDorEQ3VTDkH1hsmNoC/AVnBR4JgNQ1eAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;An image of a meme-generator in action. It’s a little bit funny.&quot;
-        title=&quot;An image of a meme-generator in action. It’s a little bit funny.&quot;
-        src=&quot;/design-blog/static/94f6693c87685c5b5cdc3919e146b9a0/f058b/meme-generator002.png&quot;
-        srcset=&quot;/design-blog/static/94f6693c87685c5b5cdc3919e146b9a0/c26ae/meme-generator002.png 158w,
-/design-blog/static/94f6693c87685c5b5cdc3919e146b9a0/6bdcf/meme-generator002.png 315w,
-/design-blog/static/94f6693c87685c5b5cdc3919e146b9a0/f058b/meme-generator002.png 630w,
-/design-blog/static/94f6693c87685c5b5cdc3919e146b9a0/d2a60/meme-generator002.png 807w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://hamsall.github.io/meme-generator/&quot;&gt;So here it is, a meme generator&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I’ve written &lt;a href=&quot;https://hamsall.medium.com/meme-generator-a-covid-project-38384170c9d&quot;&gt;more over on medium&lt;/a&gt; so check it out, leave a clap and some feedback. Keen to keep tinkering and making people chuckle&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Thematic analysis: data wrangling in design]]></title><description><![CDATA[This got published in UX collective! Huzzah!! You can check it out here]]></description><link>https://hamsall.github.io/design-blog/thematic-analysis/</link><guid isPermaLink="false">https://hamsall.github.io/design-blog/thematic-analysis/</guid><pubDate>Sun, 14 Mar 2021 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This got published in UX collective! Huzzah!!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://uxdesign.cc/thematic-analysis-data-wrangling-in-design-f59b557c1c2&quot;&gt;You can check it out here&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Archetypes in Design: Understanding Behaviour as a Network]]></title><description><![CDATA[This got published in UX collective! Huzzah!! You can check it out here]]></description><link>https://hamsall.github.io/design-blog/archetypes-in-design/</link><guid isPermaLink="false">https://hamsall.github.io/design-blog/archetypes-in-design/</guid><pubDate>Sun, 21 Feb 2021 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This got published in UX collective! Huzzah!!&lt;/p&gt;
+&lt;p&gt;Vasu | Development&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Thematic analysis: data wrangling in design]]></title><description><![CDATA[This got published in UX collective! Huzzah!! You can check it out here]]></description><link>https://hamsall.github.io/design-blog/thematic-analysis/</link><guid isPermaLink="false">https://hamsall.github.io/design-blog/thematic-analysis/</guid><pubDate>Mon, 14 Mar 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This got published in UX collective! Huzzah!!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://uxdesign.cc/thematic-analysis-data-wrangling-in-design-f59b557c1c2&quot;&gt;You can check it out here&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Archetypes in Design: Understanding Behaviour as a Network]]></title><description><![CDATA[This got published in UX collective! Huzzah!! You can check it out here]]></description><link>https://hamsall.github.io/design-blog/archetypes-in-design/</link><guid isPermaLink="false">https://hamsall.github.io/design-blog/archetypes-in-design/</guid><pubDate>Mon, 21 Feb 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This got published in UX collective! Huzzah!!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://uxdesign.cc/archetypes-in-design-d110dcb3fd7d&quot;&gt;You can check it out here&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
